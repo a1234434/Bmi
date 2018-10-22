@@ -1,4 +1,9 @@
 package com.judy.bmi;
 
-public class FinanceReport {
+public class FinanceReport implements Report {
+
+    @Override
+    public void load(){
+
+    }
 }
