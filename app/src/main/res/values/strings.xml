@@ -9,4 +9,8 @@
     <string name="caculate_bmi">Caculate bmi</string>
     <string name="help">Help</string>
     <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="caculate_bmip">Caculate BMI</string>
+    <string name="help">Help</string>
 </resources>

@@ -83,17 +83,17 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
 
 
-//        Toast.makeText(this,getString(R.string.your_bmi_is)+ bmi,Toast.LENGTH_LONG).show();
-//        new AlertDialog.Builder(this).setMessage(getString(R.string.your_bmi_is)+ bmi).setTitle(R.string.bmi).
-//                setPositiveButton(R.string.ok, null).
-//                setNegativeButton(R.string.clear, new DialogInterface.OnClickListener() {
-//            @Override
-//            public void onClick(DialogInterface dialog, int which) {
-//                edWeight.setText("");
-//                edHeight.setText("");
-//            }
-//        })
-//        .show();
 
+//       Toast.makeText(this,getString(R.string.your_bmi_is)+ bmi,Toast.LENGTH_LONG).show();
+//       new AlertDialog.Builder(this).setMessage(getString(R.string.your_bmi_is)+ bmi).setTitle(R.string.bmi).
+ ///              setPositiveButton(R.string.ok, null).
+ //              setNegativeButton(R.string.clear, new DialogInterface.OnClickListener() {
+ //          @Override
+ //          public void onClick(DialogInterface dialog, int which) {
+  //            edWeight.setText("");
+  //            edHeight.setText("");
+ //          }
+ //       }).show();
+ //
     }
 }
